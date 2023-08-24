@@ -1,0 +1,74 @@
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+body{
+    background-color: hsl(204, 43%, 93%);
+    font-family: 'Karla' , sans-serif;
+}
+.content-container{
+    width: 45%;
+    margin: auto;
+    margin-top: 12rem;
+    box-shadow: 10px 10px 10px lightblue;
+    overflow: hidden;
+}
+.card{
+    border-radius: 3%;
+    margin-bottom: 5rem;
+}
+.card-header{
+    background-color: white;
+    padding: 2.5rem;
+    font-size: 1rem;
+    border: 1px white;
+}
+.card-header h4{
+    color: hsl(179, 62%, 43%);
+    font-weight: 700;
+    text-shadow: 4px;
+}
+.card-header h5{
+    color: hsl(71, 73%, 54%);
+    font-weight: 700;
+}
+.card-header p{
+    color: lightgray;
+    font-weight: 700;
+}
+.card-body{
+    padding: 0;
+    font-size: 16px;
+}
+.card-body h5{
+    color: white;
+}
+.Subscription{
+    background-color: hsl(179, 62%, 43%);
+    padding: 2.5rem;
+    border: 1px hsl(179, 62%, 43%);
+}
+.price{
+    color: white;
+    font-size: 2rem;
+    margin-right: 4px;
+}
+.Subscription p{
+    color: hsl(204, 43%, 93%);
+}
+.btn{
+    background-color: hsl(71, 73%, 54%);
+    width: 100%;
+    font-size: 1rem;
+    color: hsl(204, 43%, 93%);
+    box-shadow: 3px 5px 5px hsl(179, 64%, 32%);
+}
+.whyUs{
+    background-color: hsl(179, 49%, 51%);
+    padding: 2.5rem 4rem 2.5rem 3rem;
+    color: hsl(204, 43%, 93%);
+    border: 1px hsl(179, 49%, 51%);
+}
